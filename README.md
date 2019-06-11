@@ -42,9 +42,9 @@ kullanıcı adı:tansel@hotmail.com
 
 -Users can write messages to the system.
 
-NOTE: 1-Open the myEnstruman.rar file in the 1-myEnstruman folder.
+NOTE: 1-Open the myEnstruman.rar file in the myEnstruman folder.
 
-      2-Open the application.rar folder in the 2-application folder.
+      2-Open the application.rar folder in the application folder.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 On the Administration Panel and User Side
