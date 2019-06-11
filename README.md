@@ -14,6 +14,11 @@
 
 -Kullanıcılar sisteme mesaj yazabilmektedirler.
 
+NOT:1-myEnstruman klasöründeki myEnstruman.rar dosyasını bulunduğu konumda açınız.
+
+   2-application klasörü içindeki application.rar klasörünü açınız.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Yönetim Paneli ve Kullanıcı Tarafında 
 
@@ -36,6 +41,10 @@ kullanıcı adı:tansel@hotmail.com
 -Users can comment on products.
 
 -Users can write messages to the system.
+
+NOTE: 1-Open the myEnstruman.rar file in the 1-myEnstruman folder.
+
+      2-Open the application.rar folder in the 2-application folder.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 On the Administration Panel and User Side
